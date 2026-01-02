@@ -43,6 +43,12 @@ I focus on:
 
 ---
 
+## 📫 Let's Connect!
+
+Feel free to reach out for collaborations, ideas, or just to say hello! 😊
+
+---
+
 ## ✨ Personal Values
 - Write clean, maintainable, and scalable code
 - Communicate ideas clearly and effectively
