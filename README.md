@@ -6,6 +6,13 @@ Currently seeking opportunities to apply my expertise in **React** and **.NET** 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=APSAL-K&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apsal%20K-0e76a8?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/apsal-k-330841302/)
+[![GitHub](https://img.shields.io/badge/GitHub-APSAL--K-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/APSAL-K)
+[![Email](https://img.shields.io/badge/Email-apsal.k2004%40gmail.com-d14836?logo=gmail&logoColor=white&style=flat-square)](mailto:apsal.k2004@gmail.com)
+
+---
+
 ## 🛠️ Skills & Technologies
 
 - **Languages**: ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
