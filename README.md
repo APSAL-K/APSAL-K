@@ -11,6 +11,8 @@ Currently seeking opportunities to apply my expertise in **React** and **.NET** 
 [![GitHub](https://img.shields.io/badge/GitHub-APSAL--K-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/APSAL-K)
 [![Email](https://img.shields.io/badge/Email-apsal.k2004%40gmail.com-d14836?logo=gmail&logoColor=white&style=flat-square)](mailto:apsal.k2004@gmail.com)
 
+![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=APSAL-K&theme=github_dark)
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -41,8 +43,13 @@ I focus on:
 
 > I believe solving problems makes you a **better developer** than just writing code.
 
----
+![Apsal most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=APSAL-K&theme=dark&layout=compact)
 
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=APSAL-K&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Apsal github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=APSAL-K&theme=dark&show_icons=true)
+
+---
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations, ideas, or just to say hello! 😊
