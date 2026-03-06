@@ -46,8 +46,7 @@ I focus on:
 ![Apsal most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=APSAL-K&theme=dark&layout=compact)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=APSAL-K&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Apsal github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=APSAL-K&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=APSAL-K&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Apsal github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=APSAL-K&theme=dark&show_icons=true)
 
 ---
 ## 📫 Let's Connect!
