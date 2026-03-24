@@ -51,7 +51,7 @@ I focus on:
     <img height="200" width="48%" src="https://github-readme-stats-phi-blond.vercel.app/api?username=APSAL-K&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/APSAL-K">
-    <img height="190" width="50%" src="https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=APSAL-K&theme=dark&layout=compact" />
+    <img height="160" width="48%" src="https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=APSAL-K&theme=dark&layout=compact" />
   </a>
 </div>
 
